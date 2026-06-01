@@ -16,9 +16,9 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Front End Engineer</h4>
-                <h5>ROWTH Autos</h5>
+                <h5>Avika Solutions </h5>
               </div>
-              <h3>2022</h3>
+              <h3>2023</h3>
             </div>
             <p>
               Refactored and improved 20+ reusable UI components using React.js,
@@ -32,7 +32,7 @@ const Career = () => {
                 <h4>Front End Engineer</h4>
                 <h5>Pragmatic Play</h5>
               </div>
-              <h3>2023</h3>
+              <h3>2025</h3>
             </div>
             <p>
               Engineered real-time multiplayer casino games using React.js,
@@ -45,7 +45,7 @@ const Career = () => {
             <div className="career-info-in">
               <div className="career-role">
                 <h4>Software Engineer</h4>
-                <h5>Applied Materials</h5>
+                <h5>Rowth Tech</h5>
               </div>
               <h3>NOW</h3>
             </div>
